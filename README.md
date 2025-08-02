@@ -24,11 +24,11 @@ This module performs exploratory and statistical analysis of user profiles to id
 ---
 
 ## Project Structure
-/Risk_Modeling
-│
-├── credit_risk_modeling_ml.ipynb
-├── fraud_detection_bank_transactions_ml.ipynb
-├── fraud_detection_online_payment_ml.ipynb
+/Risk_Modeling <br>
+│ <br>
+├── credit_risk_modeling_ml.ipynb <br>
+├── fraud_detection_bank_transactions_ml.ipynb <br>
+├── fraud_detection_online_payment_ml.ipynb <br>
 └── fraud_user_profile_analysis_stat.ipynb
 
 ## Requirements
